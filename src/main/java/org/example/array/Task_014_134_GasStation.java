@@ -1,4 +1,4 @@
-package org.example;
+package org.example.array;
 
 public class Task_014_134_GasStation {
     public static void main(String[] args) {

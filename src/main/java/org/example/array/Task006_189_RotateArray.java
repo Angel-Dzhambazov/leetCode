@@ -1,4 +1,4 @@
-package org.example;
+package org.example.array;
 
 public class Task006_189_RotateArray {
     public static void main(String[] args) {

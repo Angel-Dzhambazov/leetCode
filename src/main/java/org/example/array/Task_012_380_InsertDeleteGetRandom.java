@@ -1,4 +1,4 @@
-package org.example;
+package org.example.array;
 
 import jdk.swing.interop.SwingInterOpUtils;
 

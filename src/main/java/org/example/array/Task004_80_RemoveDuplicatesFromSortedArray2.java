@@ -1,4 +1,4 @@
-package org.example;
+package org.example.array;
 
 public class Task004_80_RemoveDuplicatesFromSortedArray2 {
     public static void main(String[] args) {

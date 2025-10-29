@@ -1,4 +1,4 @@
-package org.example;
+package org.example.array;
 
 public class Task010_45_JumpGame2 {
     public static void main(String[] args) {

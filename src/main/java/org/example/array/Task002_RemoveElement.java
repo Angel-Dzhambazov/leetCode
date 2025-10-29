@@ -1,4 +1,4 @@
-package org.example;
+package org.example.array;
 
 public class Task002_RemoveElement {
     public static void main(String[] args) {
